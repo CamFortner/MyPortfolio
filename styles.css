@@ -219,3 +219,9 @@ h3{
     border-color: #9a6f5e;
     box-shadow: 5px 10px;
  }
+
+ @media screen and (max-width: 600px) {
+    h2{
+        margin-left: 40.5%;
+    }
+ }
