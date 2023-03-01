@@ -470,11 +470,10 @@ h3{
     -ms-flex-preferred-size: 32%;
         flex-basis: 32%;
     text-align: center;
-    border: 1px solid #222;
+    border: 1px solid #804646;
     padding: 30px 15px;
     margin-bottom: 30px;
     border-width: 5px 5px 5px 5px;
-       border-image: linear-gradient(45deg, #b7204d 0%, rgb(0, 0, 0) 100%);
     border-image-slice: 9;
     border-style: solid;
   }
